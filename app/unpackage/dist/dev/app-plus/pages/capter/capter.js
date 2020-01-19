@@ -1,0 +1,2 @@
+setCssToHead(["body { height: 100%; }\nwx-swiper { -webkit-box-flex: 1; -webkit-flex: 1; flex: 1; width: ",[0,750],"; display: -webkit-box; display: -webkit-flex; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -webkit-flex-direction: column; flex-direction: column; }\n.",[1],"capterWrap { text-align: left; float:left; }\n",],undefined,{path:"./pages/capter/capter.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/capter/capter.wxml') } }));
